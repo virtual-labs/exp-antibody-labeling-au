@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.HRP is a:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Lipoproteins",
+        "b": "Glycoproteins",
+        "c": "Phosphoproteins",
+        "d": "Mucoproteins"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.What will be the reaction between when the polysaccharides in the HRP and Sodium periodate",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Reduction",
+        "b": "Decomposition",
+        "c": "Oxidation	",
+        "d": "Hydrolysis"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3.What is the molecular weight of HRP ?",
+      "answers": {
+        "a": "12kDa",
+        "b": "40Da",
+        "c": "100kDa",
+        "d": "40kDa"
+      },
+          
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.The labile Schiff bases can be stabilized with the help of Sodium borohydride by a process called:",
+        "answers": {
+          "a": "Reduction",
+          "b": "Reductive amination",
+          "c": "Oxidation",
+          "d": "Deamination"
+        },
+
+            
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }

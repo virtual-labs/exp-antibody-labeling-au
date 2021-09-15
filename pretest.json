@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.HRP is a:",
+      "answers": {
+        "a": "Lipoproteins",
+        "b": "Glycoproteins",
+        "c": "Phosphoproteins",
+        "d": "Mucoproteins"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.What will be the reaction between when the polysaccharides in the HRP and Sodium periodate",
+      "answers": {
+        "a": "Reduction",
+        "b": "Decomposition",
+        "c": "Oxidation",
+        "d": "Hydrolysis"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3.What is the molecular weight of HRP ?",
+      "answers": {
+        "a": "12kDa",
+        "b": "40Da",
+        "c": "100kDa",
+        "d": "40kDa"
+      },
+          
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.The labile Schiff bases can be stabilized with the help of Sodium borohydride by a process called:",
+        "answers": {
+          "a": "Reduction",
+          "b": "Reductive amination",
+          "c": "Oxidation",
+          "d": "Deamination"
+        },
+
+            
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
